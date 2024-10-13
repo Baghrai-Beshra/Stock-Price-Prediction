@@ -2,7 +2,7 @@
 
 This project demonstrates the use of an LSTM model for time-series forecasting, specifically predicting stock prices. Here are some key uses:
 
-1.Stock Price Prediction:
+**1.Stock Price Prediction:**
 LSTM models are well-suited for sequential data like stock prices. This project can predict the closing price of stocks based on historical trends, which can help investors make informed decisions.
 
 2.Financial Planning: 
