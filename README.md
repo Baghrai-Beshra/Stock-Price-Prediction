@@ -1,4 +1,4 @@
-# Stock-Price-Prediction
+# Stock Price Prediction
 
 This project demonstrates the use of an LSTM model for time-series forecasting, specifically predicting stock prices. Here are some key uses:
 
